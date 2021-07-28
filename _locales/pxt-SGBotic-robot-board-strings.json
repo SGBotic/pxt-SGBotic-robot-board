@@ -1,0 +1,10 @@
+{
+  "SGBotic.MotorStopAll|block": "stop All motors",
+  "SGBotic.driveMotor|block": "drive motor|%motor| %dir | at speed %speed",
+  "SGBotic.getLineSensor|block": "line sensor %lineSen",
+  "SGBotic.getSonar|block": "ultrasonic (cm)",
+  "SGBotic.stopMotor|block": "stop motor %index",
+  "SGBotic|block": "SGBotic",
+  "{id:category}SGBotic": "SGBotic",
+  "{id:subcategory}RobotBoard": "RobotBoard"
+}

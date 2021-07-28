@@ -1,0 +1,18 @@
+{
+    "name": "pxt-SGBotic-robot-board",
+    "version": "0.1",
+    "description": "Makdecode extensions for Microbit robot controller",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "robotboard.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}

@@ -1,0 +1,5 @@
+{
+  "SGBotic": "Makecode extensions for Robot Board",
+  "SGBotic.getLineSensor": "Read line following sensor",
+  "SGBotic.getSonar": "Read ultrasonic sensor"
+}
